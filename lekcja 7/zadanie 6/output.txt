@@ -1,0 +1,6 @@
+<html><body><table><tr><td>"Waga"</td><td>"BMI"</td>
+<tr><td>70</td><td>21,6</td>
+<tr><td>67</td><td>21,39</td>
+<tr><td>85</td><td>29,41</td>
+<tr><td>100</td><td>27,13</td>
+</table></body></html>
